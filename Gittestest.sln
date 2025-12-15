@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gittestest", "Gittestest\Gittestest.csproj", "{DE653EC5-C79B-45CD-9087-9F25AA5AE61F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE653EC5-C79B-45CD-9087-9F25AA5AE61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE653EC5-C79B-45CD-9087-9F25AA5AE61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE653EC5-C79B-45CD-9087-9F25AA5AE61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE653EC5-C79B-45CD-9087-9F25AA5AE61F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73B1E23E-B93B-4B22-AC07-569BB6F221B3}
+	EndGlobalSection
+EndGlobal
