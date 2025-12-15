@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gittestest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f75ccbdb6527e94df3e6d87c58b70904dec78941")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gittestest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gittestest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\Gittestest\\Gittestest\\Gittestest.csproj": {}
+    "D:\\Git\\Test-Test-\\Gittestest\\Gittestest.csproj": {}
   },
   "projects": {
-    "D:\\Git\\Gittestest\\Gittestest\\Gittestest.csproj": {
+    "D:\\Git\\Test-Test-\\Gittestest\\Gittestest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Gittestest\\Gittestest\\Gittestest.csproj",
+        "projectUniqueName": "D:\\Git\\Test-Test-\\Gittestest\\Gittestest.csproj",
         "projectName": "Gittestest",
-        "projectPath": "D:\\Git\\Gittestest\\Gittestest\\Gittestest.csproj",
+        "projectPath": "D:\\Git\\Test-Test-\\Gittestest\\Gittestest.csproj",
         "packagesPath": "C:\\Users\\Ateeb\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Gittestest\\Gittestest\\obj\\",
+        "outputPath": "D:\\Git\\Test-Test-\\Gittestest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
